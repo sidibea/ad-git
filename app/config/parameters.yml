@@ -1,0 +1,14 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: next-bus.net
+    database_port: 3306
+    database_name: nextb9og_voyage
+    database_user: nextb9og_fatou
+    database_password: sorofing
+    mailer_transport: smtp
+    mailer_host: next-bus.net
+    logo_directory: "%kernel.root_dir%/../web/assets/images/uploads/compagnies/logo/"
+    photo_directory: "%kernel.root_dir%/../web/assets/images/uploads/compagnies/photo/"
+    mailer_user: noreply@next-bus.net
+    mailer_password: sorofing
+    secret: 2c143d9251ebdc25707b99fc61c62f8036f6d114
